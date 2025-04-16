@@ -1,0 +1,22 @@
+
+
+{
+  "surfaces": [
+    {
+      "name": "Aluminum Panel",
+      "area": 1.0,
+      "alpha": 0.3,
+      "epsilon": 0.8,
+      "solar_irradiance": 1361,
+      "power_dissipated": 50
+    },
+    {
+      "name": "Radiator Surface",
+      "area": 0.5,
+      "alpha": 0.1,
+      "epsilon": 0.9,
+      "solar_irradiance": 500,
+      "power_dissipated": 10
+    }
+  ]
+}
